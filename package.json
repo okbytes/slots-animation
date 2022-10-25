@@ -2,7 +2,7 @@
     "name": "slot-machine-animation",
     "version": "0.0.0",
     "scripts": {
-        "dev": "yarn && yarn vite",
+        "dev": "pnpm i && pnpm vite",
         "build": "vite build"
     },
     "dependencies": {
